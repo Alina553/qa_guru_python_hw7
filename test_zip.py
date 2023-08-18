@@ -1,7 +1,6 @@
 import zipfile
 import os
 import pathlib
-import tempfile
 
 FILES_PATH = os.path.abspath(__file__)
 ROOT_PATH = os.path.dirname(FILES_PATH)
